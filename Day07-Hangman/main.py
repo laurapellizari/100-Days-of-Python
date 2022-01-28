@@ -1,4 +1,4 @@
-#Day 07 - Hangman
+#Day 07 - Hangman Game
 import random
 
 
